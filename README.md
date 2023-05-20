@@ -29,9 +29,9 @@ Shadowrocket
   
 **准备工作**
 * App Store 下载 TikTok
- * 美区/日区/台区/韩区等 Apple ID、密码 自备
+  * 美区/日区/台区/韩区等 Apple ID、密码 自备
 * 自备 Quantumult X｜Loon｜Surge｜Shadowrocket
- * 可在美区/日区等 App Store 获取
+  * 可在美区/日区等 App Store 获取
 * 自备代理，ss/ssr/vmess等
 
 **特别说明**
@@ -45,7 +45,7 @@ Shadowrocket
 
 **关于换区**
 
-* 解锁并换区：将CN改为想看的国家/地区的2位大写英文简写，
+* 解锁并换区：将CN改为想看的国家/地区的2位大写英文简写
 
   * 在HTTP复写中，将CN的替换值改为SG、MO、TW等即可换区
 
