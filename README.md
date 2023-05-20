@@ -208,5 +208,5 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/Tik
 ## 抖音IP代理
 订阅分流
 ```
-https://raw.githubusercontent.com/Pciecn/Quantumult-X/main/Filter/DouYin.list
+https://raw.githubusercontent.com/Pciecn/Quantumult-X/main/DouYin.list
 ```
