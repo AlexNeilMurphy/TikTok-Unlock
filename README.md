@@ -3,7 +3,7 @@
 **目录**
 * [TikTok](#TikTok)
 * [准备工作](#准备工作)
-* [Quantumult_X](#Quantumult_X)
+* [Quantumult-X](#Quantumult-X)
 * [Loon](#Loon)
 * [Surge](#Surge)
 * [Shadowrocket](#Shadowrocket)
@@ -51,7 +51,7 @@
 
 5、或者是软件是不是盗版，比如用共享 ID 下载的，有设备限制，是无法使用重写脚本功能的。
 ************************************************************************************************************
-## Quantumult_X
+## Quantumult-X
 
 **关于换区**
 
@@ -71,19 +71,19 @@
 
 **日本**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Quantumult-X/TikTok-JP.conf, tag=TikTok, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Quantumult-X/TikTok-JP.conf, tag=TikTok, update-interval=86400, opt-parser=false, enabled=true
 ```
 **台湾**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Quantumult-X/TikTok-TW.conf, tag=TikTok, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Quantumult-X/TikTok-TW.conf, tag=TikTok, update-interval=86400, opt-parser=false, enabled=true
 ```
 **韩国**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Quantumult-X/TikTok-KR.conf, tag=TikTok, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Quantumult-X/TikTok-KR.conf, tag=TikTok, update-interval=86400, opt-parser=false, enabled=true
 ```
 **美国**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Quantumult-X/TikTok-US.conf, tag=TikTok, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Quantumult-X/TikTok-US.conf, tag=TikTok, update-interval=86400, opt-parser=false, enabled=true
 ```
 **方法二：**
 
@@ -145,23 +145,23 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok.list
 
 **日本**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TiKTok-JP.sgmodule
+https://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Surge/TiKTok-JP.sgmodule
 ```
 **台湾**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TiKTok-TW.sgmodule
+https://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Surge/TiKTok-TW.sgmodule
 ```
 **韩国**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TiKTok-KR.sgmodule
+https://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Surge/TiKTok-KR.sgmodule
 ```
 **美国**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TiKTok-US.sgmodule
+https://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Surge/TiKTok-US.sgmodule
 ```
 3、添加以下分流
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TikTok.list
+https://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Surge/TikTok.list
 ```
 ************************************************************************************************************
 ## Shadowrocket
