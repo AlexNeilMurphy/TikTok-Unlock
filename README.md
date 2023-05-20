@@ -182,8 +182,8 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/Tik
 ```
 **抓包降级 TikTok 21.1.0**
 
-* 教程
-* 备用地址
+* 教程(https://semporia.github.io/iTunes.html)
+* 备用地址(https://semporia.blogspot.com/2022/06/tiktok-2110.html)
 
 **抖音無法觀看**
 在hostname中加上以下兩條
