@@ -121,7 +121,7 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-KR.p
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-US.plugin
 ```
 3、在[Remote Rule]下面添加TikTok分流规则，示例如下：
-111
+```
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok.list, tag=TikTok, policy=TikTok, update-interval=86400, enabled=true
 ```
 **Surge
@@ -131,23 +131,28 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok.list
 
 2、点击模块进去添加想看国家的对应模块。
 
-日本
-
+**日本**
+```
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TiKTok-JP.sgmodule
-台湾
-
+```
+**台湾**
+```
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TiKTok-TW.sgmodule
-韩国
-
+```
+**韩国**
+```
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TiKTok-KR.sgmodule
-美国
-
+```
+**美国**
+```
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TiKTok-US.sgmodule
+```
 3、添加以下分流
-
+```
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TikTok.list
-Shadowrocket
-操作步骤
+```
+**Shadowrocket
+操作步骤**
 
 1、打开Shadowrocket
 
@@ -155,21 +160,26 @@ Shadowrocket
 
 3、点击配置 → 模块 → 右上角加号，添加想看国家的对应模块。
 
-日本
-
+**日本**
+```
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TiKTok-JP.conf
-台湾
-
+```
+**台湾**
+```
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TiKTok-TW.conf
-韩国
-
+```
+**韩国**
+```
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TiKTok-KR.conf
-美国
-
+```
+**美国**
+```
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TiKTok-US.conf
+```
 4、添加以下分流，点击配置 → 你使用的配置后的i → 规则 → 右上角加号 → 类型 → 选择RULE-SET → 策略 → 选择PROXY或者其他你想使用的策略（一般是对应地区的代理服务器节点） → 规则集URL文本框内填写
-
+```
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TikTok.list
+```
 抓包降级 TikTok 21.1.0
 教程
 备用地址
@@ -179,5 +189,6 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/Tik
 -*snssdk.com, -*amemv.com
 抖音IP代理
 订阅分流
-
+```
 https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Filter/DouYin.list
+```
