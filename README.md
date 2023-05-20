@@ -26,6 +26,7 @@ Shadowrocket
   * 点赞
   * 评论
   * TikTok直播
+  
 **准备工作**
 * App Store 下载 TikTok
  * 美区/日区/台区/韩区等 Apple ID、密码 自备
@@ -46,7 +47,7 @@ Shadowrocket
 
 * 解锁并换区：将CN改为想看的国家/地区的2位大写英文简写，
 
- * 在HTTP复写中，将CN的替换值改为SG、MO、TW等即可换区
+  * 在HTTP复写中，将CN的替换值改为SG、MO、TW等即可换区
 
 **操作步骤**
 
