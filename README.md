@@ -1,17 +1,17 @@
 # **iPhone （免拔卡）解锁 TikTok + 换区 + 发布视频 + 直播 + 点赞评论**
 ************************************************************************************************************
 **目录**
-* [TikTok]
-* [准备工作]
-* [Quantumult X]
-* [Loon]
-* [Surge]
-* [Shadowrocket]
-* [抓包降级]
-* [抖音無法觀看]
-* [抖音IP代理]
+* [TikTok](#TikTok)
+* [准备工作](#准备工作)
+* [Quantumult X](#Quantumult X)
+* [Loon](#Loon)
+* [Surge](#Surge)
+* [Shadowrocket](#Shadowrocket)
+* [抓包降级](#抓包降级)
+* [抖音無法觀看](#抖音無法觀看)
+* [抖音IP代理](#抖音IP代理)
 ************************************************************************************************************
-**TikTok**
+## TikTok
 * iOS系统版本：16.5 Beta （支持向下兼容）
 
 * TikTok Version : 29.3.0（前置操作：从 [iTunes for Windows V 12.6.5.3](https://pan.baidu.com/s/1gLKF-W_GFhYgEYRP8yMA8g?pwd=Code#list/path=%2F) 抓包 TikTok Version 21.1.0 安装，登陆后观看视频、直播、评论、点赞、发布视频等模块都正常使用后，再从 App Store 升级至最新版方可使用！）
@@ -28,7 +28,7 @@
    - [x] 评论
    - [x] TikTok直播
   
-**准备工作**
+## 准备工作
 * App Store 下载 TikTok
 
   * 美区/日区/台区/韩区等 Apple ID、密码 自备
@@ -51,7 +51,7 @@
 
 5、或者是软件是不是盗版，比如用共享 ID 下载的，有设备限制，是无法使用重写脚本功能的。
 ************************************************************************************************************
-**Quantumult X**
+## Quantumult X
 
 **关于换区**
 
@@ -108,8 +108,8 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Quantumult-X/Tik
 ```
 6、开启Quantumult X：前往Quantumult X的主页 → 找到TikTok策略 → 长按添加节点 → TikTok愉快
 ************************************************************************************************************
-**Loon
-操作步骤**
+## Loon
+**操作步骤**
 
 1、打开Loon
 
@@ -136,8 +136,8 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-US.p
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok.list, tag=TikTok, policy=TikTok, update-interval=86400, enabled=true
 ```
 ************************************************************************************************************
-**Surge
-操作步骤**
+## Surge
+**操作步骤**
 
 1、打开Surge
 
@@ -164,8 +164,8 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TiKTok-US.
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TikTok.list
 ```
 ************************************************************************************************************
-**Shadowrocket
-操作步骤**
+## Shadowrocket
+**操作步骤**
 
 1、打开Shadowrocket
 
@@ -194,19 +194,19 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TiK
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TikTok.list
 ```
 ************************************************************************************************************
-**抓包降级 TikTok 21.1.0**
+## 抓包降级 TikTok 21.1.0
 
 * [教程](https://semporia.github.io/iTunes.html "悬停显示")
 * [备用地址](https://semporia.blogspot.com/2022/06/tiktok-2110.html)
 ************************************************************************************************************
-**抖音無法觀看**
+## 抖音無法觀看
 在hostname中加上以下兩條
 ```
 -*snssdk.com, -*amemv.com
 ```
 ************************************************************************************************************
-**抖音IP代理
-订阅分流**
+## 抖音IP代理
+订阅分流
 ```
 https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Filter/DouYin.list
 ```
