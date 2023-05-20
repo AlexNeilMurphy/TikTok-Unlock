@@ -13,7 +13,7 @@ Shadowrocket
 ## TikTok
 * iOS系统版本：16.5 Beta （支持向下兼容）
 
-* TikTok Version : 29.3.0（前置操作：从 iTunes for Windows V 12.6.5.3 抓包 TikTok Version 21.1.0 安装，登陆后观看视频、直播、评论、点赞、发布视频等模块都正常使用后，再从 App Store 升级至最新版方可使用！）
+* TikTok Version : 29.3.0（前置操作：从 [iTunes for Windows V 12.6.5.3](https://pan.baidu.com/s/1gLKF-W_GFhYgEYRP8yMA8g?pwd=Code#list/path=%2F) 抓包 TikTok Version 21.1.0 安装，登陆后观看视频、直播、评论、点赞、发布视频等模块都正常使用后，再从 App Store 升级至最新版方可使用！）
 
 * TikTok TestFlight
 
