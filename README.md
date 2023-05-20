@@ -1,6 +1,5 @@
 # **iPhone （免拔卡）解锁 TikTok + 换区 + 发布视频 + 直播 + 点赞评论**
 ## 目录
-
 TikTok
 准备工作
 Quantumult X
@@ -10,45 +9,45 @@ Shadowrocket
 抓包降级
 抖音無法觀看
 抖音IP代理
-TikTok
-iOS系统版本：16.5 Beta （支持向下兼容）
 
-TikTok Version : 29.3.0（前置操作：从 iTunes for Windows V 12.6.5.3 抓包 TikTok Version 21.1.0 安装，登陆后观看视频、直播、评论、点赞、发布视频等模块都正常使用后，再从 App Store 升级至最新版方可使用！）
+## TikTok
+* iOS系统版本：16.5 Beta （支持向下兼容）
 
-TikTok TestFlight
+* TikTok Version : 29.3.0（前置操作：从 iTunes for Windows V 12.6.5.3 抓包 TikTok Version 21.1.0 安装，登陆后观看视频、直播、评论、点赞、发布视频等模块都正常使用后，再从 App Store 升级至最新版方可使用！）
 
-下载方式：在 美区/日区/台区 App Store 搜索 TikTok 并下载 （港区已停止运营）
+* TikTok TestFlight
 
-支持功能：
- 换区
- 看视频
- 发布视频
- 点赞
- 评论
- TikTok直播
-准备工作
-App Store 下载 TikTok
+* 下载方式：在 美区/日区/台区 App Store 搜索 TikTok 并下载 （港区已停止运营）
 
-美区/日区/台区/韩区等 Apple ID、密码 自备
-自备 Quantumult X｜Loon｜Surge｜Shadowrocket
+ * 支持功能：
+  * 换区
+  * 看视频
+  * 发布视频
+  * 点赞
+  * 评论
+  * TikTok直播
+**准备工作**
+* App Store 下载 TikTok
+ * 美区/日区/台区/韩区等 Apple ID、密码 自备
+* 自备 Quantumult X｜Loon｜Surge｜Shadowrocket
+ * 可在美区/日区等 App Store 获取
+* 自备代理，ss/ssr/vmess等
 
-可在美区/日区等 App Store 获取
-自备代理，ss/ssr/vmess等
-
-特别说明
+**特别说明**
 
 1、为什么要先卸载 TikTok，TikTok 会在第一次使用时触发限制，并导致之后无法通过 MiMt 解密。
 2、所以先配置好规则之后，然后在下载 TikTok，减少重定向的请求次数，降低风险，延长规则的寿命。
 3、为什么配置好之后还是无法使用，请检查软件的证书有没有安装，信任。 4、或者是 Https 解密（MiMt）与重写（Rewrite）有没有开启。
 5、或者是软件是不是盗版，比如用共享 ID 下载的，有设备限制，是无法使用重写脚本功能的。
 
-Quantumult X
+**Quantumult X**
 关于换区
 
 解锁并换区：将CN改为想看的国家/地区的2位大写英文简写，
 
 在HTTP复写中，将CN的替换值改为SG、MO、TW等即可换区
-操作步骤
+
+**操作步骤**
 
 1、打开Quantumult X
 
