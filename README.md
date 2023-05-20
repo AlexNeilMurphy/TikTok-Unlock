@@ -176,13 +176,15 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TiK
 ```
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TiKTok-US.conf
 ```
-4、添加以下分流，点击 配置 → 你使用的配置后的i → 规则 → 右上角加号 → 类型 → 选择RULE-SET → 策略 → 选择PROXY或者其他你想使用的策略（一般是对应地区的代理服务器节点） → 规则集URL文本框内填写
+4、添加以下分流，点击`配置 → 你使用的配置后的i → 规则 → 右上角加号 → 类型 → 选择RULE-SET → 策略 → 选择PROXY或者其他你想使用的策略（一般是对应地区的代理服务器节点） → 规则集URL文本框内填写
 ```
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TikTok.list
 ```
 **抓包降级 TikTok 21.1.0**
-*教程
-*备用地址
+
+* 教程
+* 备用地址
+
 **抖音無法觀看**
 在hostname中加上以下兩條
 ```
