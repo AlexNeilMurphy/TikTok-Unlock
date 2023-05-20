@@ -29,16 +29,25 @@ Shadowrocket
   
 **准备工作**
 * App Store 下载 TikTok
+
   * 美区/日区/台区/韩区等 Apple ID、密码 自备
+  
 * 自备 Quantumult X｜Loon｜Surge｜Shadowrocket
-  * 可在美区/日区等 App Store 获取
+ 
+ * 可在美区/日区等 App Store 获取
+
 * 自备代理，ss/ssr/vmess等
 
 **特别说明**
 
 1、为什么要先卸载 TikTok，TikTok 会在第一次使用时触发限制，并导致之后无法通过 MiMt 解密。
+
 2、所以先配置好规则之后，然后在下载 TikTok，减少重定向的请求次数，降低风险，延长规则的寿命。
-3、为什么配置好之后还是无法使用，请检查软件的证书有没有安装，信任。 4、或者是 Https 解密（MiMt）与重写（Rewrite）有没有开启。
+
+3、为什么配置好之后还是无法使用，请检查软件的证书有没有安装，信任。 
+
+4、或者是 Https 解密（MiMt）与重写（Rewrite）有没有开启。
+
 5、或者是软件是不是盗版，比如用共享 ID 下载的，有设备限制，是无法使用重写脚本功能的。
 
 **Quantumult X**
