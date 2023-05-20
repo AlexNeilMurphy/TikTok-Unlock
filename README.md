@@ -34,7 +34,7 @@ Shadowrocket
   
 * 自备 Quantumult X｜Loon｜Surge｜Shadowrocket
  
- * 可在美区/日区等 App Store 获取
+  * 可在美区/日区等 App Store 获取
 
 * 自备代理，ss/ssr/vmess等
 
