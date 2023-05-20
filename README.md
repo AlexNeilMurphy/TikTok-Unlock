@@ -3,7 +3,7 @@
 **目录**
 * [TikTok](#TikTok)
 * [准备工作](#准备工作)
-* [Quantumult X](#Quantumult X)
+* [Quantumult_X](#Quantumult_X)
 * [Loon](#Loon)
 * [Surge](#Surge)
 * [Shadowrocket](#Shadowrocket)
@@ -51,7 +51,7 @@
 
 5、或者是软件是不是盗版，比如用共享 ID 下载的，有设备限制，是无法使用重写脚本功能的。
 ************************************************************************************************************
-## Quantumult X
+## Quantumult_X
 
 **关于换区**
 
