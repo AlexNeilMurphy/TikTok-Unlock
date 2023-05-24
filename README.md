@@ -117,23 +117,23 @@ https://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Quantumult-X/TikTok.
 
 **日本**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-JP.plugin
+https://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Loon/TikTok-JP.plugin
 ```
 **台湾**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-TW.plugin
+https://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Loon/TikTok-TW.plugin
 ```
 **韩国**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-KR.plugin
+https://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Loon/TikTok-KR.plugi
 ```
 **美国**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-US.plugin
+ttps://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Loon/TikTok-US.plugi
 ```
 3、在[Remote Rule]下面添加TikTok分流规则，示例如下：
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok.list, tag=TikTok, policy=TikTok, update-interval=86400, enabled=true
+https://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Loon/TikTok.list, tag=TikTok, policy=TikTok, update-interval=86400, enabled=true
 ```
 ************************************************************************************************************
 ## Surge
