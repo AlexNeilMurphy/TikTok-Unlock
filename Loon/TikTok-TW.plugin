@@ -1,9 +1,9 @@
 #!name=TikTok TW
 #!desc=解锁 TikTok 台灣 地区
-#!openUrl=https://github.com/Semporia/TikTok-Unlock
+#!openUrl=https://github.com/Pciecn/TikTok-Unlock
 #!author=Semporia
-#!homepage=https://github.com/Semporia/TikTok-Unlock
-#!icon= https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/TikTok.png
+#!homepage=https://github.com/Pciecn/TikTok-Unlock
+#!icon= https://raw.githubusercontent.com/Pciecn/IconSet/main/mini/TikTok.png
 
 [Rule]
 DOMAIN-SUFFIX,byteoversea.com
