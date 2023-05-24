@@ -125,11 +125,11 @@ https://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Loon/TikTok-TW.plugi
 ```
 **韩国**
 ```
-https://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Loon/TikTok-KR.plugi
+https://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Loon/TikTok-KR.plugin
 ```
 **美国**
 ```
-ttps://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Loon/TikTok-US.plugi
+ttps://raw.githubusercontent.com/Pciecn/TikTok-Unlock/main/Loon/TikTok-US.plugin
 ```
 3、在[Remote Rule]下面添加TikTok分流规则，示例如下：
 ```
